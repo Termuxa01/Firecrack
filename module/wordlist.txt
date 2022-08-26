@@ -1,2 +1,6 @@
-add your wordlist here
-minim of 5 line
+A
+D
+R
+T
+Yy
+T
